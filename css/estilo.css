@@ -1,0 +1,66 @@
+*
+{
+	margin:auto;
+	
+}
+.cajapadre
+{
+	background:#003300;
+	width:1200px;
+	height:600px;
+	padding:40px;
+}
+.hijo1
+{
+	margin:auto;
+	background:#0099CC;
+	width:1100px;
+	height:500px;
+	padding:40px;
+	
+}
+.hijo2
+{
+	margin:auto;
+	background:#333333;
+	width:1000px;
+	height:400px;
+	padding:40px;
+	
+}
+.hijo3
+{
+	margin:auto;
+	background:#000099;
+	width:900px;
+	height:300px;
+	padding:40px;
+	
+}
+.hijo4
+{
+	margin:auto;
+	background:#330066;
+	width:800px;
+	height:200px;
+	padding:40px;
+	
+}
+.hijo5
+{
+	margin:auto;
+	background:#33CCFF;
+	width:700px;
+	height:100px;
+	padding:40px;
+	
+}
+.hijo6
+{
+	margin:auto;
+	background:#CC9900;
+	width:600px;
+	height:50px;
+	padding:30px;
+	
+}
